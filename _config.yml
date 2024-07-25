@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Leo's Note
+subtitle: 'Share/Learn'
+description: 'A ML Engineer, share LLM/ML info'
 keywords:
-author: John Doe
-language: en
-timezone: ''
+author: Leo Feng
+language: zh-TW
+timezone: 'Asia/Taipei'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
