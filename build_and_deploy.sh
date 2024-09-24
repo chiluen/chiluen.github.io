@@ -13,3 +13,4 @@ then
 else
     git commit -m "Default update"
 fi
+git push
